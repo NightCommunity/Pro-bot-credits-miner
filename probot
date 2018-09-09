@@ -1,5 +1,5 @@
-var ServerID = "SERVER_ID_HERE"; //اي دي السيرفر
-var ChannelID = "CHANNEL_ID_HERE";// اي دي الروم
+var ServerID = "488442558188486657; //اي دي السيرفر
+var ChannelID = "488442558188486659";// اي دي الروم
 
 /*	
  
@@ -65,4 +65,4 @@ function timerFunc() {
 
 var timer = setTimeout(timerFunc, 1000);
 
-client.login("التوكن حق الحساب");
+client.login("BOT_TOKEN");
